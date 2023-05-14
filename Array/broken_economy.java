@@ -36,5 +36,5 @@ public class broken_economy {
         Broken_Economy(arr, d);
     }
 }
-// input 5, 10, 15, 22, 33, 40, 42, 55
+// input 5, 10, 15, 22, 33, 40, 42, 55   // d=25
 // output ceil=33 and floor=22
