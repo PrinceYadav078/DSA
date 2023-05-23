@@ -12,7 +12,7 @@ public class rotate_arr {
         while(st<=end){
             int t=arr[st];
             arr[st]=arr[end];
-            arr[end]=t;
+            arr[end]=t; 
             st++;
             end--;
         }
